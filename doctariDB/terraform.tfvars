@@ -1,0 +1,7 @@
+AWS_REGION               = "eu-central-1"
+AWS_ACCESS_KEY           = "AKIAVNSZLKMX6ZQ7MPPT"
+AWS_SECRET_KEY           = "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"
+INSTANCE_TYPE            = "t2.micro"
+database_master_password = "amit202021"
+database-user-name       = "amit"
+vpc_id  = "vpc-09cbc2fedd9fa3b26"
